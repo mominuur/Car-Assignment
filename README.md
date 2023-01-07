@@ -1,2 +1,2 @@
 # testr
-test repo
+test repo for larning
